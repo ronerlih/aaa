@@ -1,6 +1,4 @@
-<html>
 <style>
-   
 td, th {
    border: none!important;
 }
@@ -20,4 +18,3 @@ td, th {
 | Decade       | Nautical mile |                    |              |
 | Century      |               |                    |              |
 | Millennium   |               |                    |              |
-</html>
