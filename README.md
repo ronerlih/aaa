@@ -1,1 +1,1 @@
-![googlemirror](assets/images/google-mirror.jpg)
+![googlemirror](https://i.imgur.com/PFxFRpE.jpeg)
